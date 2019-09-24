@@ -1,4 +1,4 @@
-"","hostel.name","City","price.from","Distance","summary.score","rating.band","atmosphere","cleanliness","facilities","location.y","security","staff","valueformoney","lon","lat"
+"","name","City","price","Distance","score","rating","atmosphere","cleanliness","facilities","location","security","staff","valueformoney","lon","lat"
 "1","""Bike & Bed"" CharinCo Hostel","Osaka",3300,"2.9km from city centre",9.2,"Superb",8.9,9.4,9.3,8.9,9,9.4,9.4,135.5137671,34.682678
 "2","& And Hostel","Fukuoka-City",2600,"0.7km from city centre",9.5,"Superb",9.4,9.7,9.5,9.7,9.2,9.7,9.5,NA,NA
 "3","&And Hostel Akihabara","Tokyo",3600,"7.8km from city centre",8.7,"Fabulous",8,7,9,8,10,10,9,139.7774724,35.6974473
